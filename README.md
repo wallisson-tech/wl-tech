@@ -3,6 +3,13 @@
 - </> Atualmente estudo Engenharia de Software.
 HTML-CSS/JavaScript/Github.
 
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=wallisson-tech&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-wallisson-tech.vercel.app/api/top-langs/?username=wallisson-tech&show_icons=true&theme=radical&layout=compact" />
+ </div>
+ &nbsp;
+ &nbsp;
+ &nbsp;
 
 <p align="center">Olá sou Wallisson Santos comecei estudar tecnologia em Junho de 2023. <br><br> Estudando o Desenvolvimento Web Fontend onde pretendo atuar aprendendo todas as tecnologias possíveis.;
 
