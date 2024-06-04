@@ -4,7 +4,7 @@
 HTML-CSS/JavaScript/Github.
 
 
-<p align="center">Olá sou Wallisson Santos comecei estudar tecnologia em Junho de 2023. <br><br> Estudando o Desenvolvimento Web Fontend onde pretendo atuar aprendendo todas as tecnologias possíveis.;
+<p align="center">Olá sou Wallisson comecei estudar tecnologia em Junho de 2023. <br><br> Estudando o Desenvolvimento Web Fontend onde pretendo atuar aprendendo todas as tecnologias possíveis.;
 
 ### Estudando:
  
