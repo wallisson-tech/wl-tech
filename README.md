@@ -1,9 +1,9 @@
 - 👋 Oi, eu sou @wallisson-tech.
 -  Estou interesado em Aprender tecnologia sempre...
 - </> Estudante de Engenharia de Software.
+<br>
 
-
-<p align="center">Olá sou Wallisson comecei estudar tecnologia em Junho de 2023. <br><br> Estudando o Desenvolvimento Web Front-end;
+<p align="center">Olá sou Wallisson comecei estudar tecnologia em Março de 2023. <br><br> Estudando o Desenvolvimento Web Front-end;
 
 ### Estudando:
  
@@ -11,10 +11,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-          
-       
-          
-
+  
 ### Ferramenta:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
